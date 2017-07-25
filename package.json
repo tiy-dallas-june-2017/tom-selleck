@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tiy-dallas-june-2017/tom-selleck/issues"
   },
-  "homepage": "https://github.com/tiy-dallas-june-2017/tom-selleck#readme"
+  "homepage": "https://github.com/tiy-dallas-june-2017/tom-selleck#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mustache-express": "^1.2.5"
+  }
 }
